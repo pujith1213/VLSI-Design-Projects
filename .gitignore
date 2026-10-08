@@ -1,0 +1,35 @@
+# ==========================================
+# Vivado generated files
+# ==========================================
+.Xil/
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+
+*.cache/
+*.gen/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+
+# ==========================================
+# Questa / ModelSim generated files
+# ==========================================
+work/
+transcript
+vsim.wlf
+*.wlf
+*.cr.mti
+modelsim.ini
+
+# ==========================================
+# Windows / temporary files
+# ==========================================
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
+*~
